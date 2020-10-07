@@ -74,7 +74,7 @@ perror: 基于 errno的当前值，在标准错误上产生一条出错消息，
   
 3.运行 shell 命令 time 可以获取进程的时钟时间、用户时间和系统时间。
 
-![avatar](./imgs/ch1-time.png)
+![avatar](./imgs/ch1-time.jpg)
 
 
 
